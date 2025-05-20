@@ -4,6 +4,6 @@
 
 GitHub: [@PranabR0Y](https://github.com/PranabR0Y)
 
-# Graph Algorithms
+# OOP Implementation
 
 This repository contains implementations of common OOP functionalities using C++.
